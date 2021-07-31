@@ -14,3 +14,22 @@ html,body{
     padding: 0 2%;
     max-width: 1280px;
 }
+.linha{
+    font-size: 50px;
+    cursor: pointer;
+    display: none;
+}
+.menu-mobile ul{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px;
+    height: 100%;
+    width: 150px;
+    background-color: #ccc;
+
+}
+.menu-mobile{
+    height: 100%;
+    width: 150px;
+    background-color: #ccc;
+}
